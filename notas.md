@@ -9,3 +9,4 @@ Asignaturas:
 #Tareas Pendientes
 - Estudiar para el examen
 - Hacer ejercicios practicos
+-Educacion fisica
