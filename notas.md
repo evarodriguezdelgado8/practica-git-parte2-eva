@@ -6,3 +6,6 @@ Asignaturas:
 - ING 
 - IPE
 
+#Tareas Pendientes
+- Estudiar para el examen
+- Hacer ejercicios practicos
