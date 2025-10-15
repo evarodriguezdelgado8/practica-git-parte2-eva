@@ -3,5 +3,6 @@ Asignaturas:
 - DWES
 - DAW
 - DDI
--ING -IPE
--ING\n -IPE
+- ING 
+- IPE
+
