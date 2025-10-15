@@ -12,9 +12,5 @@ Asignaturas:
 -Educacion fisica
 -Musica
 -Mates
-<<<<<<< HEAD
+
 - Empresa e Iniciativa Emprendedora
-=======
--EIE
->>>>>>> feature-conflicto
-- EIE - Empresa e Iniciativa Emprendedora
